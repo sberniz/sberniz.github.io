@@ -1,20 +1,20 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Santiago Berniz Portfolio Site
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Data Science portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Santiago Berniz
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Data Science, Computer Science"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://www.google.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -25,7 +25,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
