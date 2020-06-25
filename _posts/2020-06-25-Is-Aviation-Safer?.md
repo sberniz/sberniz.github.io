@@ -30,7 +30,7 @@ Pilot training is also strict and difficult, their knowledge tests include aerod
 To conclude, flying has definitely gotten safer over the years, hitting a record low in 2017 for the number of fatalities with only 88, as shown in the graph above, and we can contribute this to worldwide cooperation with safety regulations and pilot training. We must, however, know that not all pilots follow rules, and failures still happen, but overall, it has been safer than the 1970s and 1980s as shown on the graph with a steady decline and minor spikes in the mid-2000s and again declining in 2019.
 
 
-[Notebook CODE](https://github.com/sberniz/FlyngSaferThanBefore/blob/master/Santiago_Berniz_Flying_has_gotten_safer.ipynb)
+<p>[Notebook CODE](https://github.com/sberniz/FlyngSaferThanBefore/blob/master/Santiago_Berniz_Flying_has_gotten_safer.ipynb)</p>
 
 
-[PORTFOLIO SITE](https://sberniz.github.io/)
+<p>[PORTFOLIO SITE](https://sberniz.github.io/)</p>
