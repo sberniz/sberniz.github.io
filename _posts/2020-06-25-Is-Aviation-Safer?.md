@@ -1,10 +1,12 @@
-Is Aviation Safer than before?
-Santiago Berniz
-Santiago Berniz
-Jun 24 · 5 min read
-
-
-
+---
+layout: post
+title: Sample blog post
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---
 
 
 We all hear everywhere that aviation is the safest form of transportation, and many people, especially pilots repeat it and say it has been proven many times.
