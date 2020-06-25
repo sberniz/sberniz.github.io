@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Is Aviation Safer?
+subtitle: Has Aviation really gotten safer?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Aviation]
 comments: true
 ---
 
