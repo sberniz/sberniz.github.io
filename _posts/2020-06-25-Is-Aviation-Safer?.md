@@ -8,9 +8,7 @@ tags: [Aviation]
 comments: true
 ---
 
-<style>
-  background-image('https://github.com/sberniz/FlyngSaferThanBefore/blob/master/passenger-plane-19469_1280.jpg?raw=true');
-  </style>
+![plane](https://github.com/sberniz/FlyngSaferThanBefore/blob/master/passenger-plane-19469_1280.jpg?raw=true)
 We all hear everywhere that aviation is the safest form of transportation, and many people, especially pilots repeat it and say it has been proven many times.
 However, many people are still scared of flying, they believe it is not the safest form of transportation, and would never board a plane. In addition, there is the concept that once a plane crashes the chances of survival are minimal. With this in mind, I’ve decided to do further research and see if it is really safer than before.
 Using a dataset of plane crashes from 1908 until 2019, we get very interesting results when analyzing the data. At first, if we go by the percentage of total fatalities, as shown in the following chart, we see that 2019 has the highest percentage of total fatalities.
