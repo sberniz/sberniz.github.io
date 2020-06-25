@@ -2,8 +2,6 @@
 layout: post
 title: Is Aviation Safer?
 subtitle: Has Aviation really gotten safer?
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Aviation]
 comments: true
 ---
